@@ -1,4 +1,4 @@
-# flux2max
+# Flux2Max
 
 Building FLUX2Max (https://flux2max.pro) — a lightweight playground for FLUX.2 [max] image generation and iterative editing.
 
