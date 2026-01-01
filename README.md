@@ -5,7 +5,7 @@
   <h1>Flux2Max</h1>
   <p><strong>Experience Top-Tier Quality with FLUX.2 [max]</strong></p>
   <p>
-    <a href="https://flux2max.pro"><strong>flux2max.pro</strong></a> · 
+    <a href="https://flux2max.pro"><strong>Flux2Max</strong></a> · 
     <a href="#features">Features</a> · 
     <a href="#how-it-works">How It Works</a>
   </p>
@@ -64,5 +64,5 @@ Ready to create? Visit **[flux2max.pro](https://flux2max.pro)** to start generat
 ---
 
 <div align="center">
-  <sub>Created by <a href="https://github.com/orvyno">Orvyno</a></sub>
+  <sub>Created by <a href="https://www.orvyno.com">Orvyno</a></sub>
 </div>
