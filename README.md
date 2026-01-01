@@ -6,8 +6,8 @@
   <p><strong>Experience Top-Tier Quality with FLUX.2 [max]</strong></p>
   <p>
     <a href="https://flux2max.pro"><strong>Flux2Max</strong></a> · 
-    <a href="#features">Features</a> · 
-    <a href="#how-it-works">How It Works</a>
+    <a href="https://wflux2max.pro/#features)">Features</a> · 
+    <a href="https://flux2max.pro/#playground">How It Works</a>
   </p>
 </div>
 
